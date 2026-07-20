@@ -4,10 +4,10 @@
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/AmolDogra">
-  <img align="left" width="26px" src="https://www.flaticon.com/free-icons/tweet" title="tweet icons" />
+  <img align="left" width="26px" src="https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000" />
 </a>
 <a href="mailto:amoldogra@outlook.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  <img align="left" width="26px" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" />
 </a>
 
 <br />
